@@ -95,7 +95,7 @@ ENV/
 .spyproject
 
 # Komodo project settings
-.komodoproject
+*.komodoproject
 
 # Rope project settings
 .ropeproject
