@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="67c2a253-00dd-42c9-bf88-8123191aa10d" kpf_version="5" name="yobitbot.komodoproject">
 <preference-set idref="67c2a253-00dd-42c9-bf88-8123191aa10d" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>
