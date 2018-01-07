@@ -25,6 +25,9 @@ wheels/
 .installed.cfg
 *.egg
 
+#Komodo project tools
+.komodotools/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -90,6 +93,9 @@ ENV/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Komodo project settings
+.komodoproject
 
 # Rope project settings
 .ropeproject
